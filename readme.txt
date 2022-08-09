@@ -1,0 +1,1 @@
+this project is about predictions of the most valuable player in the NBA, first I do some web scraping to get data from fbref.com, and then I cleaned up the data to get usefull for the machine learning algorithm, in the end I trained the algorithm that I create.
